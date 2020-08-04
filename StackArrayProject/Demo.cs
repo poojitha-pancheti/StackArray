@@ -44,7 +44,6 @@ namespace StackArrayProject
                     default:
                         Console.WriteLine("Wrong choice");
                         break;
-
                 }
                 Console.WriteLine("");
             }
